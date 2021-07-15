@@ -24,6 +24,7 @@ body .grid .daniel {
   border-radius: 8px;
   position: relative;
   z-index: 0;
+  filter: drop-shadow(1px 1px 10px #c8c8c8);
 }
 
 body .grid .daniel .quotation {
@@ -74,6 +75,7 @@ body .grid .jon {
   grid-area: jon;
   background-color: #48556a;
   border-radius: 8px;
+  filter: drop-shadow(1px 1px 10px #c8c8c8);
 }
 
 body .grid .jon .user {
@@ -118,6 +120,7 @@ body .grid .jean {
   grid-area: jean;
   background-color: white;
   border-radius: 8px;
+  filter: drop-shadow(1px 1px 10px #c8c8c8);
 }
 
 body .grid .jean .user {
@@ -162,6 +165,7 @@ body .grid .patrick {
   grid-area: patrick;
   background-color: #19212e;
   border-radius: 8px;
+  filter: drop-shadow(1px 1px 10px #c8c8c8);
 }
 
 body .grid .patrick .user {
@@ -206,6 +210,7 @@ body .grid .kira {
   grid-area: kira;
   background-color: white;
   border-radius: 8px;
+  filter: drop-shadow(1px 1px 10px #c8c8c8);
 }
 
 body .grid .kira .user {
